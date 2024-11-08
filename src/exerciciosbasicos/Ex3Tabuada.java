@@ -2,6 +2,10 @@ package exerciciosbasicos;
 
 import java.util.Scanner;
 
+/*
+ * Ler um número e retornar a tabuada do mesmo.
+ */
+
 public class Ex3Tabuada {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
